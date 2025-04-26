@@ -1,7 +1,7 @@
 
 <h3 align="center">DDS Mentorship Program by Mohammad Arshad</h3>
 <p align="center">
-  :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
+  :bar_chart: Path to a free self-taught education in <strong>AI & Data Science</strong>!
   <br><br>
 
   </a>
